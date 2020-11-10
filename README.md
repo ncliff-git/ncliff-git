@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Alt Text](https://media.giphy.com/media/10wfgzlX5CKzRe/giphy.gif)
+![Alt Text](https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif)
