@@ -1,3 +1,3 @@
 ### Hi there 👋
 ### I study at school 21
-![All Text](https://media.giphy.com/media/kfZfVqxRQ39Bu/giphy.gif)
+![All Text](https://github.com/ncliff-git/screenshots/blob/master/NcliffWallpaper5k.png)
