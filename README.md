@@ -1,6 +1,11 @@
 ![All Text](https://github.com/ncliff-git/screenshots/blob/master/NcliffWallpaper5k_mini.png)
-[![ncliff's 42 stats](https://badge42.herokuapp.com/api/stats/ncliff?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
-![ncliff's github stats](https://github-readme-stats.vercel.app/api?username=ncliff-git&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
-![ncliff's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncliff-git&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ncliff-git&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ncliff-git&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ### Hi there 👋
 ### I study at school 21
