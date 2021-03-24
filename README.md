@@ -15,8 +15,14 @@
   <img height="35em" src="https://img.shields.io/badge/-docker-481834?style=for-the-badge&logo=docker"/>
   <img height="35em" src="https://img.shields.io/badge/-bash-3B142B?style=for-the-badge&logo=gnu-bash"/>
 </p>
-
-#### My contact
-[<img src="https://github.com/ncliff-git/screenshots/blob/master/vk.png" width="40">](https://vk.com/m_moonlight_l)
-[<img src="https://github.com/ncliff-git/screenshots/blob/master/telegram.png" width="40">](https://t.me/ncliff01)
-
+<p align="center">
+  My contact
+</p>
+<p align="center">
+  <a href="https://vk.com/m_moonlight_l">
+     <img src="https://github.com/ncliff-git/screenshots/blob/master/vk.png" width="40">
+  </a>
+  <a href="https://t.me/ncliff01">
+      <img src="https://github.com/ncliff-git/screenshots/blob/master/telegram.png" width="40">
+  </a>
+</p>
