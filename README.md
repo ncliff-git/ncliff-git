@@ -16,6 +16,9 @@
   <img height="35em" src="https://img.shields.io/badge/-bash-3B142B?style=for-the-badge&logo=gnu-bash"/>
 </p>
 <p align="center">
+  <img height="35em" src="https://www.codewars.com/users/ncliff-git/badges/large"/>
+</p>
+<p align="center">
   My contact
 </p>
 <p align="center">
